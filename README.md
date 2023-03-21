@@ -1,6 +1,6 @@
 Infrastructure as Code
 
-# 2 AZ
+2 AZ
 # An autoscaling
 # route53
 # cloudfront
